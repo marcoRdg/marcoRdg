@@ -24,13 +24,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
   <br>
   
-
+<!--
 <b> ⚡ Principais Repositórios</b>:
 
   <a href="https://github.com/marcoRdg/Data_Science_Projects">
     <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoRdg&repo=Data_Science_Projects&theme=dark" />
   </a>
-</div>
+</div> -->
+
 <!--
 **marcoRdg/marcoRdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
